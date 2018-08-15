@@ -1,7 +1,8 @@
 #ifndef RFUNCTION_H_
 #define RFUNCTION_H_
 
-#include <function/Function.hpp>
+//#include <function/Function.hpp>
+#include <boost/function.hpp>
 #include <Rcpp.h>
 
 
